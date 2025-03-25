@@ -11,6 +11,12 @@ np.random.seed(42) # Set random seed for reproducibility
 # Define the number of samples
 n_samples = 100000
 
+intervall_etudiant_Amount=[500,10000]
+intervall_salaire_Amount=[3000,30000]
+intervall_professionnel_Amount=[15000,150000]
+intervall_joint_Amount=[5000,100000]
+intervall_epargne_Amount=[5000,50000]
+
 moroccan_cities = [
     "Agadir", "Ahfir", "Ain Harrouda", "Ait Melloul", "Ajdir", "Al Hoceïma", "Assilah", "Azemmour", "Azilal",
     "Beni Mellal", "Ben Guerir", "Berkane", "Berrechid", "Boujdour", "Bouznika",
