@@ -34,7 +34,6 @@ moroccan_cities = [
     "Youssoufia", "Zagora"
 ]
 comptes_bancaires = [
-    "courant",
     "d’épargne",
     "professionnel",
     "joint",
