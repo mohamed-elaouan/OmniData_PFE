@@ -17,6 +17,22 @@ intervall_professionnel_Amount=[15000,150000]
 intervall_joint_Amount=[5000,100000]
 intervall_epargne_Amount=[5000,50000]
 
+# for bank transaction catégorie
+comptes_bancaires_marocains_generaux = [
+    # Pour les Particuliers (les plus courants)
+    "compte courant",
+    "compte d’épargne",# ça ce que n'appel le compt dormant
+
+    # Pour les Professionnels (les plus fondamentaux)
+    "compte professionnel",
+
+    # Une catégorie de plus en plus répandue
+    "compte de shopping" # pour es paiement en-ligne
+]
+
+# Affichage de la liste
+print(comptes_bancaires_marocains_generaux)
+
 morocco_cities = [
     "Casablanca",
     "Fes",
