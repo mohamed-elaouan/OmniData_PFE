@@ -18,7 +18,7 @@ intervall_joint_Amount=[5000,100000]
 intervall_epargne_Amount=[5000,50000]
 
 # for bank transaction catégorie
-comptes_bancaires_marocains_generaux = [
+Categorie_bank_Account = [
     # Pour les Particuliers (les plus courants)
     "compte courant",
     "compte d’épargne",# ça ce que n'appel le compt dormant
