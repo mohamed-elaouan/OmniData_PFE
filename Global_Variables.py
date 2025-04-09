@@ -31,7 +31,6 @@ Categorie_bank_Account = [
 ]
 
 # Affichage de la liste
-print(comptes_bancaires_marocains_generaux)
 
 morocco_cities = [
     "Casablanca",
